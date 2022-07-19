@@ -2,7 +2,7 @@ import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
 streamlit.header('Healthy Menu')
-streamlit.header('____________')
+streamlit.header('_____________________')
 streamlit.text('| 🥚 Eggs Benedict         - 3 EUR')
 streamlit.text('| 🥚 Mushroom Omelette     - 3 EUR')
 streamlit.text('| 🥑 Guacamole             - 2 EUR')
